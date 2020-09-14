@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/RahulReactAPSSDC/static/css/main.620f0022.chunk.css",
+    "main.js": "/RahulReactAPSSDC/static/js/main.5319062f.chunk.js",
+    "main.js.map": "/RahulReactAPSSDC/static/js/main.5319062f.chunk.js.map",
+    "runtime-main.js": "/RahulReactAPSSDC/static/js/runtime-main.a385ebd9.js",
+    "runtime-main.js.map": "/RahulReactAPSSDC/static/js/runtime-main.a385ebd9.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/RahulReactAPSSDC/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.01545e6c.chunk.js": "/RahulReactAPSSDC/static/js/2.01545e6c.chunk.js",
+    "static/js/2.01545e6c.chunk.js.map": "/RahulReactAPSSDC/static/js/2.01545e6c.chunk.js.map",
+    "index.html": "/RahulReactAPSSDC/index.html",
+    "precache-manifest.c4059f990256e507433818d1a2944568.js": "/RahulReactAPSSDC/precache-manifest.c4059f990256e507433818d1a2944568.js",
+    "service-worker.js": "/RahulReactAPSSDC/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/RahulReactAPSSDC/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.620f0022.chunk.css.map": "/RahulReactAPSSDC/static/css/main.620f0022.chunk.css.map",
+    "static/js/2.01545e6c.chunk.js.LICENSE.txt": "/RahulReactAPSSDC/static/js/2.01545e6c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a385ebd9.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.01545e6c.chunk.js",
+    "static/css/main.620f0022.chunk.css",
+    "static/js/main.5319062f.chunk.js"
+  ]
+}
